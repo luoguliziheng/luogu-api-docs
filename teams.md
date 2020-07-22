@@ -32,7 +32,7 @@
 
 ## 列出团队题目
 
-<table>
+<table> 
   <tr>
     <th align="right">请求</th>
     <td><code>GET /api/team/problems/:id</code></td>
